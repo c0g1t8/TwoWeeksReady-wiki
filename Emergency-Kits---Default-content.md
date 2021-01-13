@@ -19,6 +19,8 @@ In the UI there will be calculator functionality. A user will select to create a
 
 ![Emergency Kits Model Diagram](https://github.com/HTBox/TwoWeeksReady/blob/master/assets/models/EmergencyKits.png)
 
+# Base Kits
+
 Lists of the “minimum” supplies for their respective kits for 1 person or 1 pet:
 
 **Home Kit (2 Weeks Ready kit)**
