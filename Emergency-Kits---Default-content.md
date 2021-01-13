@@ -1,3 +1,20 @@
+# Feature Summary
+
+When creating emergency kits, we need to provide a starting point. This will be a generic list of items for one person. Types of kits at this time include Home Kit, Go Bag, Car Kit, Work Kit (model this so that the types of kits are extensible). The list of items along with quantity will vary from kit to kit (will be provided to us). 
+
+A Kit shall be identified with a Name and an Icon. (Standard icons for each kit type will be provided)
+
+Once a user creates a Kit (they can create as many as they wish), the basic kit items are added to their list with the appropriate quantities. (See big picture view for calculator functionality when determining quantities). The user will have the ability to add items to this kit, and remove items from this kit.
+
+A Kit item shall include Name, Description, Photo, Expiry Date, Boolean whether the item in the kit is purchased and present in the kit
+
+The user should be able to check an item in their lists as being included in the kit as they purchase supplies. Expiry dates on items also need to be allowed to be entered so that they can be notified when an item needs replacing.
+
+Big Picture View:
+In the UI there will be calculator functionality. A user will select to create a type of kit, eg. Home Kit. and enter the number of people and pets in their household. These values are used when creating the user's custom kit to determine quantities for their home/pets.
+
+![image](https://user-images.githubusercontent.com/3979478/101657596-1620c200-3a12-11eb-88e5-f35b8f43bb7c.png)
+
 # Emergency Kit Model
 
 ![Emergency Kits Model Diagram](https://github.com/HTBox/TwoWeeksReady/blob/master/assets/models/EmergencyKits.png)
