@@ -1,4 +1,4 @@
-# Hazard Hunt
+# Hazard Hunt and Hazard Information
 
 Read only listing of home hazards (Hazard Hunt) or types of emergencies (Hazard Information) that users will be able to review.
 
