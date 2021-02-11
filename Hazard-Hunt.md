@@ -6,7 +6,7 @@ Entry point from main screen:
 
 ![Hazard Hunt Entry Point](https://github.com/HTBox/TwoWeeksReady/raw/master/assets/wiki/HazardHuntEntry.png)
 
-Listing of Hazards (is not radio buttons):
+Listing of Hazards (is not radio buttons) - each card shall show icon/image, title, short description.
 
 ![Hazard Hunt Listing](https://github.com/HTBox/TwoWeeksReady/raw/master/assets/wiki/HazardHuntListing.png)
 
