@@ -2,7 +2,7 @@
 
 Read only listing of home hazards that users will be able to review.
 
-Entry point from main screen:
+Entry point from main screen (ignore 'local alert' on main screen for now):
 
 ![Hazard Hunt Entry Point](https://github.com/HTBox/TwoWeeksReady/raw/master/assets/wiki/HazardHuntEntry.png)
 
