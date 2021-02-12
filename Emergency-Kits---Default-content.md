@@ -16,10 +16,139 @@ In the UI there will be calculator functionality. A user will select to create a
 ![image](https://user-images.githubusercontent.com/3979478/101657596-1620c200-3a12-11eb-88e5-f35b8f43bb7c.png)
 
 # Emergency Kit Model
-
+> Note: This is an example of the relationships, please view the API section for implemented structures.
 ![Emergency Kits Model Diagram](https://github.com/HTBox/TwoWeeksReady/blob/master/assets/models/EmergencyKits.png)
 
-# Base Kits
+# API
+
+### emergencykits : GET : No parameters
+Sample Response:
+```json
+[
+    {
+        "id": "db90f019-7cd8-4586-b42b-4dc89a5b21ee",
+        "userId": "google-oauth2|127189344966490243983",
+        "name": "Test create kit",
+        "color": "#FF0000",
+        "icon": "mdi-medical-bag",
+        "kitItems": []
+    }
+]
+```
+
+### emergencykit-by-id/{id} : GET : id (string)
+Sample Response
+```json
+{
+    "id": "db90f019-7cd8-4586-b42b-4dc89a5b21ee",
+    "userId": "google-oauth2|127189344966490243983",
+    "name": "Test create kit",
+    "color": "#FF0000",
+    "icon": "mdi-medical-bag",
+    "kitItems": []
+}
+```
+
+### emergencykit-create : POST : No parameters
+Sample Request (Body):
+```json
+{
+    "name": "Test create kit",
+    "color": "#FF0000",
+    "icon": "mdi-medical-bag"
+}
+```
+Sample Response:
+```json
+{
+    "id": "db90f019-7cd8-4586-b42b-4dc89a5b21ee",
+    "userId": "google-oauth2|127189344966490243983",
+    "name": "Test create kit",
+    "color": "#FF0000",
+    "icon": "mdi-medical-bag",
+    "kitItems": []
+}
+```
+### emergencykit-create-from-base-kit : POST : No Parameters
+> Note: This is currently untested in the API
+Sample Request (Body):
+```json
+{
+    "baseKitId": "guidvaluehere",
+    "name": "My new kit",
+    "count": 5
+}
+```
+Sample Response:
+```json
+{
+    "id": "db90f019-7cd8-4586-b42b-4dc89a5b21ee",
+    "userId": "google-oauth2|127189344966490243983",
+    "name": "Test create kit",
+    "color": "#FF0000",
+    "icon": "mdi-medical-bag",
+    "kitItems": [{
+           "id": "someguidvalue",
+           "userId": "google-oauth2|127189344966490243983",
+           "name": "Item 1",
+           "description": "description of item 1",
+           "quantity": 5,
+           "quantityUnit": "Gallons",
+           "photo": "not defined yet",
+           "isAvailableInKit": false
+          }]
+}
+```
+### emergencykit-update : PUT : No parameters
+Sample Request (Body):
+```json
+{
+    "id": "db90f019-7cd8-4586-b42b-4dc89a5b21ee",
+    "userId": "google-oauth2|127189344966490243983",
+    "name": "Test create kit - UPDATED",
+    "color": "#FF0000",
+    "icon": "mdi-medical-bag",
+    "kitItems": []
+}
+```
+Sample Response:
+```json
+{
+    "id": "db90f019-7cd8-4586-b42b-4dc89a5b21ee",
+    "userId": "google-oauth2|127189344966490243983",
+    "name": "Test create kit - UPDATED",
+    "color": "#FF0000",
+    "icon": "mdi-medical-bag",
+    "kitItems": []
+}
+```
+### emergencykit-delete/{id} : DELETE : id(string)
+Sample Response:
+```json
+   true
+```
+
+### basekits : GET : No parameters
+> Note: Untested API (no current base kits defined)
+```json
+[
+  {
+     "id": "someguid",
+     "name": "Home Kit",
+     "icon": "mdi-medical-bag",
+     "items": [{
+            "id": "someguid",
+            "name": "Really helpful item",
+            "description": "It's red",
+            "photo": "not currently defined yet",
+            "quantityPerCount": 5,
+            "quantityUnit": "Gallons"
+         }]
+  }
+]
+```
+
+# Base Kit Contents
 
 Lists of the “minimum” supplies for their respective kits for 1 person or 1 pet:
 
