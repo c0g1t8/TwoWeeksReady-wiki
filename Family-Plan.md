@@ -16,7 +16,7 @@ The 2WR application on a device might have ownership, access and/or viewer right
 Contents of the "family plan" section include user editable details, such as; 
 * Who (identified users that are shared on this plan) is listed
 * In the event of a disaster, do the following: Application provided suggestions during set up of family plan workflow.
-  > examples include: check yourself and others for injuries; get to a safe place (high ground if near the coast after earthquake shaking stops); location of gas meter and how to turn off; meeting point locations and travel routes; communicate with out of area contact; location of go kits/emergency supplies; special medical needs; who to check on in the neighborhood (those with access and functional needs, children, elderly etc.)
+  > examples include: check yourself and others for injuries; get to a safe place (high ground if near the coast after earthquake shaking stops); location of gas meter and how to turn off; meeting point locations and travel routes; communicate with out of area contact; location of go kits/emergency supplies; special medical needs; who to check on in the neighborhood (those with access and functional needs, children, elderly etc.); add any custom instructions or messages (words of encouragement to loved ones)
 * Emergency contact information; name, number, address, text, email, special information 
 
 Need to decide: Which items are considered “Required” in order to make a family plan “completed?
