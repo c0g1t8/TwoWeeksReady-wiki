@@ -27,6 +27,7 @@ Contents of the "family plan" section include user editable details, such as;
 As a household, choose an out-of-area contact person, someone who lives outside of your state, and add their information as your emergency contact. If an earthquake happens in your area and you receive a ShakeAlert message, a notification will be sent to your designated emergency contact with your last known location. 
 * location of go kits/emergency supplies and fire extinguisher;
 * special medical needs;
+Emergency medical information (diabetes, dialysis) what first responders would need to know or neighbors/family would need to know
 * who to check on in the neighborhood (those with access and functional needs, children, elderly etc.);
 * add any custom instructions or messages (words of encouragement to loved ones)
 
@@ -37,6 +38,7 @@ How to use My Family Plan
 Talk with the members of your household about what information you would each need in an emergency. Fill in your important information and share it with your family members. 
 
 Text Fields 
+
 Home address
 Home phone
 Cell phone
@@ -88,9 +90,6 @@ Alternative route home 2
 Electric company phone
 Gas company phone
 Water company phone
-
-
-Emergency medical information (diabetes, dialysis) what first responders would need to know
 
 Resources
 Link to Oregon’s “My Pocket Planner” https://www.oregon.gov/oem/Documents/15023_OEM_Pocket%20Planner_2018-web.pdf 
