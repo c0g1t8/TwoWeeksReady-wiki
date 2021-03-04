@@ -1,0 +1,1 @@
+Details Tsunami Alerting process
