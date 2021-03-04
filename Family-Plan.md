@@ -40,55 +40,105 @@ Talk with the members of your household about what information you would each ne
 Text Fields 
 
 Home address
+
 Home phone
+
 Cell phone
+
 Email
+
 Other # or social media
+
 Employer Phone
+
 School Name
+
 School Address
+
 School Phone
+
 School emergency pick-up location - and procedures?
+
 Household member:
+
     phone:
+
 Family member:
+
     Phone:
+
 Relationship:
+
 > add + button to add additional Family members/phone numbers <
+
 Pet:
+
     Pet name
+
     Pet type
+
 Picture upload
+
     Microchip registration #
+
 > add + button to add additional Pet names/pictures/microchip <
+
 Local emergency contact name
+
 Local emergency contact phone
+
 Out-of-area emergency contact name (Find a way to make sure this person’s information is included in your Family Plan)
+
 Out-of-area emergency contact phone
+
 Neighborhood meeting place
+
 Out-of-neighborhood meeting place
+
 Physician name
+
     Phone
+
 Dentist name
+
     Phone
+
 Pharmacy name
+
     Phone
+
 Veterinarian name
+
 phone
+
 Local Fire station
+
     Address
+
     Phone
+
     Non-emergency number
+
 Local police station
+
     Address
+
     Phone
+
     Non-emergency number
+
 Neighborhood gathering point (CERT, Community Hub, MYN)
+
 Current route home
+
 Alternative route home 1
+
 Alternative route home 2
+
 Electric company phone
+
 Gas company phone
+
 Water company phone
 
 Resources
