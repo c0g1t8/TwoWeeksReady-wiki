@@ -149,5 +149,4 @@ https://www.fema.gov/media-library/assets/documents/96123
 
 Need more assistance? Ping @schuback and @maximiliandixon 
 
-https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%201.PNG
-![Family Plan - Selection](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%201.PNG)
+[Family Plan - Selection](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%201.PNG)
