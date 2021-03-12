@@ -49,57 +49,54 @@ Ask for people to add their emergency contacts when people first click on/open t
 
 Text Fields 
 
-* *Home address
-* *Home phone
-* *Cell phone
-* *Email
-* *Other # or social media
-* *Employer Phone
-* *School Name
-* *School Address
-* *School Phone
+* Home address
+* Home phone
+* Cell phone
+* Email
+* Other # or social media
+* Employer Phone
+* School Name
+* School Address
+* School Phone
 
-* *Household member:
-*     *phone:
-* *Family member:
-*     *Phone:
-* *Relationship:
+* Household member:
+* phone:
+* Family member:
+* Phone:
+* Relationship:
 * > add + button to add additional Family members/phone numbers <
 
-* *Pet:
-*    *Pet name
-*     *Pet type
-
-* *Picture upload
-*    *Microchip registration #
-
+* Pet:
+* Pet name
+* Pet type
+* Picture upload
+* Microchip registration #
 * > add + button to add additional Pet names/pictures/microchip <
 
-* *Local emergency contact name
-* *Local emergency contact phone
-
-* *Physician name
-*     Phone
-* *Dentist name
-*     Phone
-* *Pharmacy name
-*     Phone
-* *Veterinarian name
+* Local emergency contact name
+* Local emergency contact phone
+* Physician name
+* Phone
+* Dentist name
+* Phone
+* Pharmacy name
+* Phone
+* Veterinarian name
 * phone
 
-* *Local Fire station
-*     *Address
-*     *Phone
-*     *Non-emergency number
+* Local Fire station
+* Address
+* Phone
+* Non-emergency number
 
-* *Local police station
-*     *Address
-*     *Phone
-*     *Non-emergency number
+* Local police station
+* Address
+* Phone
+* Non-emergency number
 
-* *Electric company phone
-* *Gas company phone
-* *Water company phone
+* Electric company phone
+* Gas company phone
+* Water company phone
 
 ![Family Plan - Emergency Contacts](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%205.PNG)
 
