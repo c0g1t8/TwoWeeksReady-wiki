@@ -31,6 +31,23 @@ Emergency medical information (diabetes, dialysis) what first responders would n
 * who to check on in the neighborhood (those with access and functional needs, children, elderly etc.);
 * add any custom instructions or messages (words of encouragement to loved ones)
 
+
+![Family Plan - Selection](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%201.PNG)
+
+![Family Plan - Menu](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%202.PNG)
+
+![Family Plan - Emergency Walkthrough](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%203.PNG)
+
+![Family Plan - Routes & Locations](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%204.PNG)
+
+![Family Plan - Routes & Locations 2](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%207.PNG)
+
+![Family Plan - Emergency Contacts](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%205.PNG)
+
+![Family Plan - Emergency Contacts 2](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%206.PNG)
+
+![Family Plan - Photo Choice](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%208.PNG)
+
 * Emergency contact information; name, number, address, text, email, special information 
 Ask for people to add their emergency contacts when people first click on/open the My Family Plan feature/button. Also, it will include language explaining why you need to add in the emergency contacts and that whomever you include will also get your last known location.
 
@@ -148,19 +165,3 @@ https://www.fema.gov/media-library/assets/documents/96123
 
 
 Need more assistance? Ping @schuback and @maximiliandixon 
-
-![Family Plan - Selection](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%201.PNG)
-
-![Family Plan - Menu](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%202.PNG)
-
-![Family Plan - Emergency Walkthrough](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%203.PNG)
-
-![Family Plan - Routes & Locations](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%204.PNG)
-
-![Family Plan - Routes & Locations 2](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%207.PNG)
-
-![Family Plan - Emergency Contacts](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%205.PNG)
-
-![Family Plan - Emergency Contacts 2](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%206.PNG)
-
-![Family Plan - Photo Choice](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%208.PNG)
