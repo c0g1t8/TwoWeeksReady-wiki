@@ -28,13 +28,13 @@ Contents of the "family plan" section include user editable details, such as;
 * get to a safe place (high ground if near the coast after earthquake shaking stops);
 * location of gas meter and how to turn off;
 * meeting point locations and travel routes;
-Neighborhood meeting place
-Out-of-neighborhood meeting place
-Neighborhood gathering point (CERT, Community Hub, MYN)
-Current route home
-Alternative route home 1
-Alternative route home 2
-School emergency pick-up location - and procedures?
+* Neighborhood meeting place
+* Out-of-neighborhood meeting place
+* Neighborhood gathering point (CERT, Community Hub, MYN)
+* Current route home
+* Alternative route home 1
+* Alternative route home 2
+* School emergency pick-up location - and procedures?
 
 ![Family Plan - Emergency Walkthrough](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%203.PNG)
 
@@ -49,57 +49,57 @@ Ask for people to add their emergency contacts when people first click on/open t
 
 Text Fields 
 
-*Home address
-*Home phone
-*Cell phone
-*Email
-*Other # or social media
-*Employer Phone
-*School Name
-*School Address
-*School Phone
+* *Home address
+* *Home phone
+* *Cell phone
+* *Email
+* *Other # or social media
+* *Employer Phone
+* *School Name
+* *School Address
+* *School Phone
 
-*Household member:
-    *phone:
-*Family member:
-    *Phone:
-*Relationship:
-> add + button to add additional Family members/phone numbers <
+* *Household member:
+*     *phone:
+* *Family member:
+*     *Phone:
+* *Relationship:
+* > add + button to add additional Family members/phone numbers <
 
-*Pet:
-   *Pet name
-    *Pet type
+* *Pet:
+*    *Pet name
+*     *Pet type
 
-*Picture upload
-   *Microchip registration #
+* *Picture upload
+*    *Microchip registration #
 
-> add + button to add additional Pet names/pictures/microchip <
+* > add + button to add additional Pet names/pictures/microchip <
 
-*Local emergency contact name
-*Local emergency contact phone
+* *Local emergency contact name
+* *Local emergency contact phone
 
-*Physician name
-    Phone
-*Dentist name
-    Phone
-*Pharmacy name
-    Phone
-*Veterinarian name
-phone
+* *Physician name
+*     Phone
+* *Dentist name
+*     Phone
+* *Pharmacy name
+*     Phone
+* *Veterinarian name
+* phone
 
-*Local Fire station
-    *Address
-    *Phone
-    *Non-emergency number
+* *Local Fire station
+*     *Address
+*     *Phone
+*     *Non-emergency number
 
-*Local police station
-    *Address
-    *Phone
-    *Non-emergency number
+* *Local police station
+*     *Address
+*     *Phone
+*     *Non-emergency number
 
-*Electric company phone
-*Gas company phone
-*Water company phone
+* *Electric company phone
+* *Gas company phone
+* *Water company phone
 
 ![Family Plan - Emergency Contacts](https://github.com/HTBox/TwoWeeksReady/blob/381a474aebaa9a7d7d1441bd7198952497bea737/assets/wiki/Family%20plan%20page%205.PNG)
 
