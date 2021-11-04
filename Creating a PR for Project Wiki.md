@@ -1,6 +1,8 @@
 # Creating a PR for Project Wiki
 
-Github Wikis can be configured such that only be edited by designated collaborators. This prevents other users from changing the Wiki content without a review process.
+Github Wikis can be configured such that they can only be edited by designated collaborators. This prevents other users from changing the Wiki content without a review process.
+
+In order to contribute to the Wiki, you will need an editable copy of the Wiki repository. Once you are satisfied with your changes, submit a PR with a link to your repository.
 
 ```Powershell
 # clone
@@ -17,9 +19,9 @@ git push -u origin master
 git remote -v
 ```
 
-You should get 
+You should get the following with the _origin_ pointing to your copy of the wiki repository:
 
-```
+```Powershell
 htbox   https://github.com/HTBox/TwoWeeksReady.wiki.git (fetch)
 htbox   https://github.com/HTBox/TwoWeeksReady.wiki.git (push)
 origin  https://github.com/c0g1t8/TwoWeeksReady-wiki.git (fetch)
