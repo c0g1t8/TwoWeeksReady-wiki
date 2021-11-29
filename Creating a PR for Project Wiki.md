@@ -29,3 +29,11 @@ origin  https://github.com/c0g1t8/TwoWeeksReady-wiki.git (push)
 ```
 
 _Pull Requests_ must be handled through the Issues system since this requires one of the collaborators to first accept the PR to their local copy of the Wiki before pushing it up to the project.
+
+They can pull your changes by 
+
+``` Powershell
+git fetch https://github.com/c0g1t8/TwoWeeksReady-wiki.git updates:c0g1t8_updates
+```
+
+where *updates* is the branch that contains the changes.  See https://stackoverflow.com/questions/5884784/how-to-pull-remote-branch-from-somebody-elses-repo for more information.
